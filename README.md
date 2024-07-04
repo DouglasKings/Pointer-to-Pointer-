@@ -1,2 +1,3 @@
 # Pointer to Pointer:
- This is a C program for Advanced Concepts
+Pointer to Pointer: Develop a program that demonstrates the use of a pointer to a pointer by creating a 2D array dynamically.
+
